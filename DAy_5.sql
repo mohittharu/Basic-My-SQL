@@ -105,3 +105,5 @@ SELECT  students.student_id,students.name, courses.course_name
 FROM students
 RIGHT JOIN enrollments ON students.student_id = enrollments.student_id
 RIGHT JOIN courses ON enrollments.course_id = courses.course_id;        -- afnaii table ko hunxa ani like course_id arko table ko aayo vaney tyo foreign key banxa
+
+-- this is inner joining 
