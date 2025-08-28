@@ -194,3 +194,5 @@ VALUES
 (7, 7, '2024-03-14', 'http://example.com/uploads/jane_casestudy.pdf', 'B+'),
 -- Student 8 (Kyle Adams) for Assignment 8 (Book Review)
 (8, 8, '2024-03-19', 'http://example.com/uploads/kyle_review.pdf', 'A');
+
+-- Hello 3

@@ -17,3 +17,5 @@ CREATE TABLE student(
 
 -- CREATES BLOCK FOR THE DETIAL OF THE STUDENT
 describe student;
+
+-- Hello 1
