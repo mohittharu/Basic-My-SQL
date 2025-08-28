@@ -42,3 +42,4 @@ select * A Classroom;
 update classroom 
 set Location="Building W -Room 101"
 where Classroom_ID=1;
+-- mohit 
