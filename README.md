@@ -1,8 +1,10 @@
-# Basic-My-SQL
+# Basic-My-SQL  🚀
+
 I am learning basic My SQL operation .
 
 
-📘 My SQL Learning Journey
+📘 My SQL Learning Journey  🚀
+
 
 This repository documents my step-by-step learning of MySQL concepts, from the basics of database creation to building a full Hotel Management System project. Each day focuses on one key SQL concept with practical examples.
 
